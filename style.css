@@ -1,3 +1,34 @@
 body{
     font-family: 'Fjalla One', sans-serif;
 }
+.Wellcome{
+    margin-bottom:150px;
+    display:flex;
+    background-image:url(images/top-banner.png) ;
+    Padding:0%;
+    background-repeat: no-repeat;
+
+
+
+
+}
+.half-width{
+    width:50%;
+   
+}
+.half-width img{
+    width:70%;
+}
+h1{
+    scroll-behavior:initial;
+}
+.md{
+    background-color: yellow;
+}
+#button{
+    width:10px 30px;
+    background-image: linear-gradient(tomato, brown);
+}
+.dream{
+    display: fles;
+}
